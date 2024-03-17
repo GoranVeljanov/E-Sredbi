@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846220416320",
+    "project_id": "proekt-ff6b5",
+    "storage_bucket": "proekt-ff6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846220416320:android:1f9f0e2f6d1e62d34496a5",
+        "android_client_info": {
+          "package_name": "com.example.e_sredbiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMVHNdBrXYISBh2k2wSqah3j7uAjuR5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846220416320:android:a3728ed38a5b96b14496a5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMVHNdBrXYISBh2k2wSqah3j7uAjuR5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
